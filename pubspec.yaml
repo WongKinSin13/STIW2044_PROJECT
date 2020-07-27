@@ -52,6 +52,8 @@ dev_dependencies:
   random_string: ^2.1.0   
   
   material_design_icons_flutter: 4.0.5345
+
+  
   
     
 # For information on the generic Dart part of this file, see the
